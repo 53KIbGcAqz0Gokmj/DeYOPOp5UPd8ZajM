@@ -1,5 +1,17 @@
-ValeInvestor - Project-5 -Apziva
+# ValeInvestor 
 
-This Program aims to establish a robust intelligent system to aid our value-investing efforts using stock market data. We make investment decisions based on intrinsic value of companies and do not trade on the basis of daily market volatility. Our profit realization strategy typically involves weekly, monthly and quarterly performance of stocks we buy or hold.
+# Background:
 
-Predicting stock price valuations on a daily, weekly and monthly basis. Recommend BUY, HOLD, SELL decisions. Maximize capital returns, minimize losses. Ideally a loss should never happen. Minimize HOLD period. Evaluating on the basis of capital returns using Bollinger Bands to measure the systems effectiveness
+The goal is to establish a robust intelligent system to aid the value investing efforts using stock market data, the investment decisions should be based on intrinsic value of companies and not on the basis of daily market volatility. The profit realization strategy typically involves weekly, monthly and quarterly performance of stocks we buy or hold.
+
+# Data Description:
+
+Set of portfolio companies trading data from emerging markets including 2020 Q1-Q2-Q3-Q4 2021 Q1 stock prices. Each market's operating days varies based on the country of the company and the market the stocks are exchanged. Predict with the 2021 Q1 data.
+
+# Goal(s):
+
+* Predict stock price valuations on a daily, weekly and monthly basis.
+* Recommend BUY, HOLD, SELL decisions.
+* Maximize capital returns, minimize losses.
+* Ideally a loss should never happen. Minimize HOLD period.
+* Evaluate on the basis of capital returns. Use Bollinger Bands to measure the system effectiveness.
