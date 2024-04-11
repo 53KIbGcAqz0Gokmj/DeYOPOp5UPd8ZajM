@@ -15,4 +15,5 @@ Set of portfolio companies trading data from emerging markets including 2020 Q1-
 * Maximize capital returns, minimize losses.
 * Ideally a loss should never happen. Minimize HOLD period.
 * Evaluate on the basis of capital returns. Use Bollinger Bands to measure the system effectiveness.
-![download](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/7ceadee4-df3a-405f-b176-d68dd47588aa)
+
+![download](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/258f76aa-9b2a-41e3-a84b-7f0776cfe824)
