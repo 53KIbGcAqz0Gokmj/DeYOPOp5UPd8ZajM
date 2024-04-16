@@ -28,3 +28,8 @@ Set of portfolio companies trading data from emerging markets including 2020 Q1-
 2. FB Prophet (MAPE: 16.83%): Designed to handle missing data and outliers effectively, FB Prophet can also accommodate seasonality and holidays. However, it's not most suitable choice for rapidly changing trends and complex patterns.
 3. ARIMA (AutoRegressive Integrated Moving Average) (MAPE: 2.91%): ARIMA performs well with linear trends and stationary time series, and it can capture seasonality through differencing. But, its efficacy diminishes when faced with non-linear patterns, making it less suitable for forecasting complex trends.
 4. LSTM (Long Short-Term Memory) (MAPE: 1.65%): LSTM stands out for its ability to capture complex, non-linear relationships and it can learn well from long sequences of data and capture temporal dependencies.
+   
+![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/dc8fc152-c51b-4459-8f8d-ff49d3d69e2f)
+
+![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/8651dea1-7f0e-4224-bba9-1efdeb5c21a2)
+
