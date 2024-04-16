@@ -18,13 +18,18 @@ Set of portfolio companies trading data from emerging markets including 2020 Q1-
 
 # Methodology:
 
- * After trying different time series forecasting models for our initial dataset focused on Russia's Sberbank Stocks, LSTM model is the best fit.
+* After trying different time series forecasting models for our initial dataset focused on Russia's Sberbank Stocks, LSTM model is the best fit.
 
- ![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/31425613-e0e3-4790-9c48-666d5fb10ebe)
-
- ![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/e6269803-319c-4ea8-9df8-cef6ab5b2ef2)
+![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/31425613-e0e3-4790-9c48-666d5fb10ebe)
 
 ![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/5c8780e4-22b8-4770-b895-3651a40bf9f3)
+
+Evaluate the model on the whole data and predict 20 months into the future (till the end of next year) 
+
+![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/e6269803-319c-4ea8-9df8-cef6ab5b2ef2)
+
+
+![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/e767734f-b751-4c6e-b781-540b260511dc)
 
 
 1. Exponential Smoothing (MAPE: 2.69%): While Exponential Smoothing is straightforward to implement and captures general trends, its forecasting performance diminishes with intricate trends, complex patterns, or long-term dependencies.
