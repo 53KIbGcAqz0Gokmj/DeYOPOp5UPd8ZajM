@@ -32,12 +32,12 @@ Evaluate the model on the whole data and predict 20 months into the future (till
 ![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/e767734f-b751-4c6e-b781-540b260511dc)
 
 
-1. Exponential Smoothing (MAPE: 2.69%): While Exponential Smoothing is straightforward to implement and captures general trends, its forecasting performance diminishes with intricate trends, complex patterns, or long-term dependencies.
-2. FB Prophet (MAPE: 16.83%): Designed to handle missing data and outliers effectively, FB Prophet can also accommodate seasonality and holidays. However, it's not most suitable choice for rapidly changing trends and complex patterns.
-3. ARIMA (AutoRegressive Integrated Moving Average) (MAPE: 2.91%): ARIMA performs well with linear trends and stationary time series, and it can capture seasonality through differencing. But, its efficacy diminishes when faced with non-linear patterns, making it less suitable for forecasting complex trends.
-4. LSTM (Long Short-Term Memory) (MAPE: 1.65%): LSTM stands out for its ability to capture complex, non-linear relationships and it can learn well from long sequences of data and capture temporal dependencies.
+1. Exponential Smoothing : While Exponential Smoothing is straightforward to implement and captures general trends, its forecasting performance diminishes with intricate trends, complex patterns, or long-term dependencies.
+2. FB Prophet : Designed to handle missing data and outliers effectively, FB Prophet can also accommodate seasonality and holidays. However, it's not most suitable choice for rapidly changing trends and complex patterns.
+3. ARIMA (AutoRegressive Integrated Moving Average): ARIMA performs well with linear trends and stationary time series, and it can capture seasonality through differencing. But, its efficacy diminishes when faced with non-linear patterns, making it less suitable for forecasting complex trends.
+4. LSTM (Long Short-Term Memory) : LSTM stands out for its ability to capture complex, non-linear relationships and it can learn well from long sequences of data and capture temporal dependencies.
    
-![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/dc8fc152-c51b-4459-8f8d-ff49d3d69e2f)
+![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/5cd0ed05-dece-4541-9a18-cd6eb4fc4093)
 
 # Conclusion 
 
