@@ -31,5 +31,5 @@ Set of portfolio companies trading data from emerging markets including 2020 Q1-
    
 ![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/dc8fc152-c51b-4459-8f8d-ff49d3d69e2f)
 
-![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/8651dea1-7f0e-4224-bba9-1efdeb5c21a2)
+![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/d7a63422-6c60-4950-ac37-81f0bbde38d6)
 
