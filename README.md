@@ -16,4 +16,15 @@ Set of portfolio companies trading data from emerging markets including 2020 Q1-
 * Ideally a loss should never happen. Minimize HOLD period.
 * Evaluate on the basis of capital returns. Use Bollinger Bands to measure the system effectiveness.
 
-![download](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/258f76aa-9b2a-41e3-a84b-7f0776cfe824)
+  # Methodology:
+
+  After trying different time series forecasting models for our initial dataset focused on Russia's Sberbank Stocks, LSTM model is the best fit.
+
+ ![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/31425613-e0e3-4790-9c48-666d5fb10ebe)
+
+ ![image](https://github.com/53KIbGcAqz0Gokmj/DeYOPOp5UPd8ZajM/assets/143815258/e6269803-319c-4ea8-9df8-cef6ab5b2ef2)
+
+1. Exponential Smoothing (MAPE: 2.69%): While Exponential Smoothing is straightforward to implement and captures general trends, its forecasting performance diminishes with intricate trends, complex patterns, or long-term dependencies.
+2. FB Prophet (MAPE: 16.83%): Designed to handle missing data and outliers effectively, FB Prophet can also accommodate seasonality and holidays. However, it's not most suitable choice for rapidly changing trends and complex patterns.
+3. ARIMA (AutoRegressive Integrated Moving Average) (MAPE: 2.91%): ARIMA performs well with linear trends and stationary time series, and it can capture seasonality through differencing. But, its efficacy diminishes when faced with non-linear patterns, making it less suitable for forecasting complex trends.
+4. LSTM (Long Short-Term Memory) (MAPE: 1.65%): LSTM stands out for its ability to capture complex, non-linear relationships and it can learn well from long sequences of data and capture temporal dependencies.
